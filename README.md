@@ -1,4 +1,4 @@
-DataMunging Solution
+# DataMunging Solution
 
 This .NET 6 C# console app is a solution to a coding challenge.
 - Two text-based data files are provided. The files contain different subject matter and different column layouts.
@@ -21,7 +21,7 @@ This .NET 6 C# console app is a solution to a coding challenge.
  
 # How to Build
 1. Clone the repository and open the destination folder.
-2. Using Visual Studio, open the solution file: `DataMunging.sln`
+2. Using Visual Studio 2022, open the solution file: `DataMunging.sln`
 3. Build and run the application.
 
 # Sample Output (screenshots)
